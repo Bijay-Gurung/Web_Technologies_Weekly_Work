@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1{
+        color: white;
+        text-align: center;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font: 100;
+}
